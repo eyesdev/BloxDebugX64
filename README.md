@@ -11,4 +11,4 @@
 <br>
 **block** - **name of a program that roblox will fetch as a pid and if it is running then it will close roblox**
 <br>
-**unblock** - **opposite of block, if someone blocked stuff on here or [x64dbg](https://github.com/x64dbg/x64dbg) is blocked then you can just type x64dbg for example and it will unblock**
+**unblock** - **opposite of block, if someone blocked stuff on here or [x64dbg](https://github.com/x64dbg/x64dbg) is blocked then you can just type x64dbg for example and it will let it be**
