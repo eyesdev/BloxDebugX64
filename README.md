@@ -7,6 +7,8 @@
 <br>
 **add.asm** - **this isn't a variable but you can use this to add a line of assembly to run. it can be a function like a grabber or something (i do not reccomend grabbing btw)**
 <br>
+**mod.asm** - **give an assembly code snippet and modify it with a new one**
+<br>
 **crash** - **a bool that lets you pick if the client insta crashes or not**
 <br>
 **block** - **name of a program that roblox will fetch as a pid and if it is running then it will close roblox**
